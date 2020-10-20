@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RECYCLERVIEW</string>
+    <array name="pet_names">
+        <item>cat</item>
+        <item>dog</item>
+        <item>rat</item>
+        <item>rabbit</item>
+        <item>pegion</item>
+        <item>snake</item>
+        <item>elephant</item>
+        <item>cow</item>
+    </array>
+    <array name="description">
+        <item>cute</item>
+        <item>faithful</item>
+        <item>cheese</item>
+        <item>vcute</item>
+        <item>fly</item>
+        <item>slither</item>
+        <item>huge</item>
+        <item>milk</item>
+    </array>
+</resources>
